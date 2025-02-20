@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Boobalan !<br> 🎓 A recent graduate in BCA with a passion for coding and problem-solving. <br>
+Hi there 👋, I'm Boobalan ! 🎓 A recent graduate in BCA with a passion for coding and problem-solving. <br>
 - 🔭 I've a great Foundation on Java and Web Technologies 
 - 🌱 I’m currently learning Spring boot a Java Framework 
 ## 🌐 Socials:
