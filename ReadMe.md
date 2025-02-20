@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋, <br>I'm Boobalan ! 🎓 A recent graduate in BCA , an aspiring **Java Developer** eager to learn and grow in software development <br> I have an experience working with **Java,Spring Boot,SQL, and REST APIs** through personal and academic projects. 
-- 🔭 I've a great Foundation on Java and Web Technologies 
-- 🌱 I’m currently learning Data Strcture and Algorithms
+- 🔭 I've a great Foundation on **Java and Web Technologies**
+- 🌱 I’m currently learning **Data Strcture and Algorithms**
 - 💬 Ask me about **Java, Spring Boot, React.js, SQL**  
 - 🎯 I love solving coding challenges on **[CodingBat](https://codingbat.com/)**  
 - ⚡ Fun fact: I love **playing chess,Volley Ball,Skating**
