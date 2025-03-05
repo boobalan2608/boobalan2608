@@ -4,12 +4,13 @@ Hi there 👋, <br>I'm Boobalan ! 🎓 A recent graduate in BCA , an aspiring **
 - 🌱 I’m currently learning **Data Strcture and Algorithms**
 - 💬 Ask me about **Java, Spring Boot, React.js, SQL**  
 - 🎯 I love solving coding challenges on **[CodingBat](https://codingbat.com/)**  
-- ⚡ Fun fact: I love **playing chess,Volley Ball,Skating**
+- ⚡ Fun fact: I love **Playing Chess,Volley Ball,Skating**
 
 ## 🕹️Projects :
    - Developed a Library Management System using Spring Boot and PostgreSQL
    - Developed an [E-commerce Web Application](https://boobalan2608.github.io/ecommercedemo/#) using React.JS and JSON Server
    - Developed a [Sports management Web Application](http://bcaproject.free.nf) using HTML,CSS,JS,PHP,SQL
+   - Developed an RESTFul Api for [LibraryManagement](https://librarymanagementapi-wpdl.onrender.com) using SpringBoot,PostgreSQL and Maven
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bala.reformDAO#4194) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xboobalan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boobaland2608) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boobalandharani26@gmail.com) 
 
