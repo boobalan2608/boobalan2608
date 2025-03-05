@@ -8,7 +8,7 @@ Hi there 👋, <br>I'm Boobalan ! 🎓 A recent graduate in BCA , an aspiring **
 
 ## 🕹️Projects :
    - Developed a Library Management System using Spring Boot and PostgreSQL
-   - Developed an [E-commerce Web Application](https://boobalan2608.github.io/ecommercedemo/#) using React.JS and JSON Server
+   - Developed an **[E-commerce Web Application]**(https://boobalan2608.github.io/ecommercedemo/#) using React.JS and JSON Server
    - Developed a [Sports management Web Application](http://bcaproject.free.nf) using HTML,CSS,JS,PHP,SQL
    - Developed an RESTFul API for [LibraryManagement](https://librarymanagementapi-wpdl.onrender.com) using SpringBoot,PostgreSQL and Maven<br> read the [guide](https://github.com/boobalan2608/LibraryManagementAPI/tree/main?tab=readme-ov-file#-library-management-restful-api) before explore the API
 ## 🌐 Socials:
